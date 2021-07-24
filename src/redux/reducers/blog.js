@@ -1,5 +1,6 @@
 import actionpost from '../actions/index.js';
 import Axios from 'axios';
+import {POST} from '../../api/index';
 const oldState = {
     data:[],
     error: false,
@@ -23,7 +24,7 @@ export const reducer = (state = oldState, action)=>{
                 search: action.payload,
             }; 
         case actionpost.delete().type:
-            Axios.post('http://localhost:4000/post/DeleteElement',{
+            POST('/post/DeleteElement',{
                 _id: action.payload
             });
           
