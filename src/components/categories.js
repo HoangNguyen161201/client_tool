@@ -37,7 +37,7 @@ export default function categories(props) {
             <Field type="text" name="title" component={inputField} label='Add new' />
             <ErrorMessage style={{ color: 'red' }} name="title" component="div" />
             <button className='mt-3 mb-3 btn btn-primary' type="submit" disabled={isSubmitting}>
-              Submit
+              Add new
             </button>
           </Form>
         )}

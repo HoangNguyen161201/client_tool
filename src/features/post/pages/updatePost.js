@@ -126,7 +126,7 @@ function updatePost() {
                                     <Field name='img' type='file' id='file' label='Insert image' component={fileField} />
                                     <ErrorMessage className="form-text" style={{color: 'red'}} name='img' component='small'/>
                                 </div>
-                                <button type="submit" disabled={isSubmitting} className="mb-2 btn btn-primary">Submit</button>
+                                <button type="submit" disabled={isSubmitting} className="mb-2 btn btn-primary">Update</button>
                             </Form>
 
                         )}
