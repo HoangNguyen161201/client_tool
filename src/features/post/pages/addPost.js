@@ -114,6 +114,7 @@ function addPost() {
                                 <button type="submit" disabled={isSubmitting} className="mb-2 btn btn-primary">Add new</button>
                             </Form>
 
+
                         )}
                     </Formik>
                 </div>
