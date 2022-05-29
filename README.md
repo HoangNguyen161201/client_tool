@@ -1,6 +1,10 @@
 # UI resource and libraries
 ----------
 This website is a place to display websites, good libraries used to design and develop websites. This helps developers know and use to develop their website projects well.
+#### language and libraries used for development:
+- Nodejs (Expressjs framework)
+- reactjs
+- redux
 #### Link demo:
 - <a href="https://clienttool.herokuapp.com/post">Link demo</a> 
 #### Illustrating images:
