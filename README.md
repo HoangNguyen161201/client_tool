@@ -5,6 +5,7 @@ This website is a place to display websites, good libraries used to design and d
 - Nodejs (Expressjs framework)
 - reactjs
 - redux
+- mongodb
 #### Link demo:
 - <a href="https://clienttool.herokuapp.com/post">Link demo</a> 
 #### Illustrating images:
