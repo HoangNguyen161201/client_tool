@@ -7,7 +7,7 @@ This website is a place to display websites, good libraries used to design and d
 - redux
 - mongodb
 #### Link demo:
-- <a href="https://clienttool.herokuapp.com/post">Link demo</a> 
+- <a href="https://inspiring-heliotrope-a16e91.netlify.app/post">Link demo</a> 
 #### Illustrating images:
 ![image](https://user-images.githubusercontent.com/84957563/170857921-8b69b278-932d-42cd-8c4a-7eff50436f41.png)
 ![image](https://user-images.githubusercontent.com/84957563/170857918-cba7c7f9-19d7-41a6-9f7b-2d20577759c3.png)
