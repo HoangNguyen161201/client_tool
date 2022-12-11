@@ -1,5 +1,5 @@
 import axios from "axios";
-const URL = 'https://servertool.herokuapp.com';
+const URL = 'https://server-tools.onrender.com';
 export const GET = (url)=>{
     return axios.get(URL+url).then(e=>e.data);
 }
